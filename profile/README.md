@@ -6,7 +6,7 @@
 
 🧙 Our IT Experts, Cloud consultants can help you map out your next steps towards business growth with adaptation of recennt technologies. From determining what workloads should live where, to handling governance and compliance, to managing costs, our experts can help you optimize your operations.
 
-**Our SErvices**
+**Our Services**
 - AMC in Softwares
 - IT Transformation Consultations
 - Cloud Solutions
