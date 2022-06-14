@@ -1,12 +1,21 @@
-## WHEREVER YOU ARE IN YOUR IT & CLOUD TRANSFORMATION JOURNEY, WE CAN HELP. man_technologist  
+## WHEREVER YOU ARE IN YOUR IT & CLOUD TRANSFORMATION JOURNEY, WE CAN HELP. 👨‍💻
+
+**GET SERVICE RIGHT FASTER.**
+- IT Transformation
+- Cloud Solutions
+
+🧙 Our IT Experts, Cloud consultants can help you map out your next steps towards business growth with adaptation of recennt technologies. From determining what workloads should live where, to handling governance and compliance, to managing costs, our experts can help you optimize your operations.
+
+**Our SErvices**
+- AMC in Softwares
+- IT Transformation Consultations
+- Cloud Solutions
+- Website Development
+- Project Management
+- Corporate Training
+- IT Certifications
+- Virtual Internship Program
+- Profile Building
 
 <!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
